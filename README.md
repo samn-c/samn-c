@@ -1,4 +1,4 @@
-## Hola!
+## Hey!
 I'm Sam Chowdhury, a second-year student studying Electrical and Computer Engineering at the University of Toronto! I've had a strong passion for electricity from a young age, taking apart electronics to see how they work from the inside. It has always been my dream to be able to contribute to the advancement of technology, and I feel that my current path will take me there. Although my main areas of interest in ECE are energy systems and computer hardware, I also enjoy learning new things and have a wide range of interests such as programming, lifesaving, business, and collecting records.
 
 ---
